@@ -263,3 +263,18 @@ header nav ul li a:hover {
   border: 2px solid var(--tertiary-color);
   cursor: pointer;
 }
+
+footer {
+  background-color: var(--secondary-color);
+  padding: 1.25rem;
+  text-align: center;
+  margin: 2rem 0 0;
+}
+
+a:link {
+  color: var(--primary-color);
+}
+
+a:visited {
+  color: var(--primary-color);
+}
